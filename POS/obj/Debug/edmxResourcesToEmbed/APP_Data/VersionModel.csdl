@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="VersionModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Log">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" />
+    <Property Name="VersionId" Type="Int32" Nullable="false" />
+    <Property Name="Description" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="Version" Relationship="Self.FK_Log_ToVersion" FromRole="Log" ToRole="Version" />
+    <Property Name="Date" Type="DateTime" Precision="3" />
+    <Property Name="Action" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Developer" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="SoftwareId" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Software" Relationship="VersionModel.FK_Log_ToSoftware" FromRole="Log" ToRole="Software" />
+  </EntityType>
+  <EntityType Name="Version">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" />
+    <Property Name="Major" Type="Int32" Nullable="false" />
+    <Property Name="Minor" Type="Int32" Nullable="false" />
+    <Property Name="Patch" Type="Int32" Nullable="false" />
+    <Property Name="Revision" Type="Int32" />
+    <NavigationProperty Name="Logs" Relationship="Self.FK_Log_ToVersion" FromRole="Version" ToRole="Log" />
+    <Property Name="CreatedDate" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="Developer" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="SoftwareId" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Software" Relationship="VersionModel.FK_Version_ToSoftware" FromRole="Version" ToRole="Software" />
+  </EntityType>
+  <Association Name="FK_Log_ToVersion">
+    <End Role="Version" Type="Self.Version" Multiplicity="1" />
+    <End Role="Log" Type="Self.Log" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Version">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Log">
+        <PropertyRef Name="VersionId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="VersionEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Logs" EntityType="Self.Log" />
+    <EntitySet Name="Versions" EntityType="Self.Version" />
+    <AssociationSet Name="FK_Log_ToVersion" Association="Self.FK_Log_ToVersion">
+      <End Role="Version" EntitySet="Versions" />
+      <End Role="Log" EntitySet="Logs" />
+    </AssociationSet>
+    <EntitySet Name="Softwares" EntityType="VersionModel.Software" />
+    <AssociationSet Name="FK_Log_ToSoftware" Association="VersionModel.FK_Log_ToSoftware">
+      <End Role="Software" EntitySet="Softwares" />
+      <End Role="Log" EntitySet="Logs" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Version_ToSoftware" Association="VersionModel.FK_Version_ToSoftware">
+      <End Role="Software" EntitySet="Softwares" />
+      <End Role="Version" EntitySet="Versions" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Software">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" />
+    <Property Name="Name" Type="String" Nullable="false" MaxLength="100" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Logs" Relationship="VersionModel.FK_Log_ToSoftware" FromRole="Software" ToRole="Log" />
+    <NavigationProperty Name="Versions" Relationship="VersionModel.FK_Version_ToSoftware" FromRole="Software" ToRole="Version" />
+  </EntityType>
+  <Association Name="FK_Log_ToSoftware">
+    <End Type="VersionModel.Software" Role="Software" Multiplicity="1" />
+    <End Type="VersionModel.Log" Role="Log" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Software">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Log">
+        <PropertyRef Name="SoftwareId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Version_ToSoftware">
+    <End Type="VersionModel.Software" Role="Software" Multiplicity="1" />
+    <End Type="VersionModel.Version" Role="Version" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Software">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Version">
+        <PropertyRef Name="SoftwareId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

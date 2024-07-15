@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="VersionModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2008" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Log">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" />
+    <Property Name="VersionId" Type="int" Nullable="false" />
+    <Property Name="Description" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Date" Type="datetime" />
+    <Property Name="Action" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Developer" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="SoftwareId" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Software">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" />
+    <Property Name="Name" Type="varchar" MaxLength="100" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Version">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" />
+    <Property Name="Major" Type="int" Nullable="false" />
+    <Property Name="Minor" Type="int" Nullable="false" />
+    <Property Name="Patch" Type="int" Nullable="false" />
+    <Property Name="Revision" Type="int" />
+    <Property Name="CreatedDate" Type="datetime" Nullable="false" />
+    <Property Name="Developer" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="SoftwareId" Type="int" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_Log_ToSoftware">
+    <End Role="Software" Type="Self.Software" Multiplicity="1" />
+    <End Role="Log" Type="Self.Log" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Software">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Log">
+        <PropertyRef Name="SoftwareId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Log_ToVersion">
+    <End Role="Version" Type="Self.Version" Multiplicity="1" />
+    <End Role="Log" Type="Self.Log" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Version">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Log">
+        <PropertyRef Name="VersionId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Version_ToSoftware">
+    <End Role="Software" Type="Self.Software" Multiplicity="1" />
+    <End Role="Version" Type="Self.Version" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Software">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Version">
+        <PropertyRef Name="SoftwareId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="VersionModelStoreContainer">
+    <EntitySet Name="Log" EntityType="Self.Log" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Software" EntityType="Self.Software" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Version" EntityType="Self.Version" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_Log_ToSoftware" Association="Self.FK_Log_ToSoftware">
+      <End Role="Software" EntitySet="Software" />
+      <End Role="Log" EntitySet="Log" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Log_ToVersion" Association="Self.FK_Log_ToVersion">
+      <End Role="Version" EntitySet="Version" />
+      <End Role="Log" EntitySet="Log" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Version_ToSoftware" Association="Self.FK_Version_ToSoftware">
+      <End Role="Software" EntitySet="Software" />
+      <End Role="Version" EntitySet="Version" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

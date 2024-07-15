@@ -1,0 +1,10 @@
+Name,ProductCode,Barcode,Price,WholeSalePrice,Qty,Brand,ProductCategory,ProductSubCategory,IsNotifyMinStock,MinStockQty,Size,Unit,Tax
+Alpine Drinking Water 1L,2.01E+11,2.01E+11,300,0,0,Alpine,Drink ,Water,N,0,0,0,0
+Speed Energy Drink 265 ml,2.02E+11,2.02E+11,350,0,0,Speed,Drink ,Softdrink,N,0,0,0,0
+Burn Energy Drink 250ml,2.03E+11,2.03E+11,600,0,0,Burn,Drink ,Softdrink,N,0,0,0,0
+Mevius Cigarette,2.04E+11,2.04E+11,1800,0,0,Mevius,Cigarette,Cigarette,N,0,0,0,0
+Three Sister Fried Potato,2.05E+11,2.05E+11,500,0,0,Three Sister,Food,Freid Potato,N,0,0,0,0
+Premier Coffeemix 1Pack,2.06E+11,2.06E+11,2800,0,0,Premier,Drink ,Coffee,N,0,0,0,0
+Super Coffeemix 1Pack,2.07E+11,2.07E+11,2700,0,0,Super,Drink ,Coffee,N,0,0,0,0
+Colgate Tooth-Paste Double ,2.08E+11,2.08E+11,2200,0,0,Colgate,Tooth-Paste,Tooth-Paste,N,0,0,0,0
+Yum Yum Tomyum noodle,2.09E+11,2.09E+11,200,0,0,Yum Yum,Food,Noodle,N,0,0,0,0

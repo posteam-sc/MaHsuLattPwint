@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="VersionModelStoreContainer" CdmEntityContainer="VersionEntities">
+    <EntitySetMapping Name="Logs">
+      <EntityTypeMapping TypeName="VersionModel.Log">
+        <MappingFragment StoreEntitySet="Log">
+          <ScalarProperty Name="SoftwareId" ColumnName="SoftwareId" />
+          <ScalarProperty Name="Developer" ColumnName="Developer" />
+          <ScalarProperty Name="Action" ColumnName="Action" />
+          <ScalarProperty Name="Date" ColumnName="Date" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="VersionId" ColumnName="VersionId" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Versions">
+      <EntityTypeMapping TypeName="VersionModel.Version">
+        <MappingFragment StoreEntitySet="Version">
+          <ScalarProperty Name="SoftwareId" ColumnName="SoftwareId" />
+          <ScalarProperty Name="Developer" ColumnName="Developer" />
+          <ScalarProperty Name="CreatedDate" ColumnName="CreatedDate" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Major" ColumnName="Major" />
+          <ScalarProperty Name="Minor" ColumnName="Minor" />
+          <ScalarProperty Name="Patch" ColumnName="Patch" />
+          <ScalarProperty Name="Revision" ColumnName="Revision" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Softwares">
+      <EntityTypeMapping TypeName="VersionModel.Software">
+        <MappingFragment StoreEntitySet="Software">
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

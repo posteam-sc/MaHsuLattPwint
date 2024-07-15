@@ -1,0 +1,475 @@
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.AddNote.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.AddPackageChild.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.AddTable.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.AdjustmentDeleteLog.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.AdjustmentFrm.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.AdjustmentListFrm.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.AdjustmentRpt.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.AdjustmentTypefrm.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.AssignTicketButton.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.NoveltiesSaleReport.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.frmPaidByCredit.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.GWPTransactionsReport.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.AverageMonthlySaleReport_frm.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.Barcode.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.Brand.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.Centralized.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.chart.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.City.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.Common.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.ConsignmentSettlement.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.ConsignmentProductCounter.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.ConsignmentProductReport.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.ConsignmentSettlementList.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.ConsignmentSettlementReport.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.ConsignmentSettlement_DetailList.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.frmlocalize.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.csvExportImport.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.Customer_Package_detail.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.CustomerDetailInfoExample.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.exampleSale.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.ExchangeRate.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.ExpenseCategory.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.ExpenseDeleteLog.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.ExpenseDetailList.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.ExpenseEntry.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.ExpenseList.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.ExpenseReport.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.GeneralPassword.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.NoveltySystem.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.Novelty_Detail.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.Novelty_List.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.ProductExpireReport.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.Promotion_List.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.PromotionDetail.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.PromotionSystem.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.StockAgingReport.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.VersionInfo.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.frmNetIncomeReport.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.frmSale_FOC.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.GiftCardTransactionHistory.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.MDIParent.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.MemberRule.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.newMemberType.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.mType.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.OutstandingSupplierDetail.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.OutstandingSupplierList.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.Package_Customer_List.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.ProductDetailQty.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.ProfitAndLoss_frm.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.PurchaseDeleteLog_frm.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.Counter.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.CreditTransactionList.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.CustomerDetail.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.CustomerDetailInfo.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.CustomerList.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.DailyTotalReport.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.DeleteLogForm.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.DraftDetail.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.DraftList.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.EndDay.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.FrmCustomerInfomation.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.frmCustomerSaleReport.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.GiftCardControl.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.ItemList.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.ItemSummary.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.DailySummaryReport.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.Login.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.NewCustomer.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.NewProduct.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.NewSupplier.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.NewUser.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.OutstandingCustomerList.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.OutstandingCustomerReport.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.PaidByCash2.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.PaidByCreditWithPrePaidDebt.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.PaidByFOC.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.PaidByGiftCard.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.PaidByMPU.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.PriceChangeHistoryList.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.PrintBarcode.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.ProductCategory.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.ProductDetailPrice.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.ProductReport_frm.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.ProductSubCategory.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.Properties.Resources.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.PurchaseDetailList.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.PurchaseDiscountReport_frm.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.PurchaseInput.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.PurchaseListBySupplier.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.PurchaseOrderItem.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.PurchaseReport.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.RefundDetail.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.RefundDiscount.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.RefundList.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.RefundTransaction.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.Register.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.RoleManagement.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.SaleBreakDown.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.Sales.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.Setting.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.Shop.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.StartDay.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.StockReceiveList.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.StockTransaction.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.StockTransactionReport.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.StockTransReturnForm.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.SupplierInformation.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.SupplierList.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.Taxes.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.TaxesSummary.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.TopSaleReport.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.TopUp.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.Transaction_Reports.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.TransactionDetailByItem.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.TransactionDetailForm.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.TransactionList.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.TransactionReportByCashierOrCounter.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.TransactionReport_FOC_MPU.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.TransactionSummary.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.UnitConversionfrm.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.UnitConversionListfrm.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.UnitForm.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.UserControl.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.ViewTicket.resources
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.csproj.GenerateResource.cache
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\RdlCompile.cache
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\RdlCompile.compiled
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.csproj.CoreCompileInputs.cache
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\bin\x64\Debug\POS.exe.config
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\bin\x64\Debug\POS.exe
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\bin\x64\Debug\POS.pdb
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\bin\x64\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\bin\x64\Debug\EntityFramework.xml
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\bin\x64\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\bin\x64\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\bin\x64\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\bin\x64\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\bin\x64\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\bin\x64\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\bin\x64\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\bin\x64\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\bin\x64\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\bin\x64\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.csproj.CopyComplete
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.exe
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.pdb
+C:\Users\Mel_nu\Desktop\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.csprojAssemblyReference.cache
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\bin\x64\Debug\POS.exe.config
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\bin\x64\Debug\POS.exe
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\bin\x64\Debug\POS.pdb
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\bin\x64\Debug\EntityFramework.dll
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\bin\x64\Debug\Microsoft.ReportViewer.Common.dll
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\bin\x64\Debug\Microsoft.ReportViewer.WinForms.dll
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\bin\x64\Debug\QRCoder.dll
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\bin\x64\Debug\Microsoft.SqlServer.Types.dll
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\bin\x64\Debug\EntityFramework.xml
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\bin\x64\Debug\de\Microsoft.SqlServer.Types.resources.dll
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\bin\x64\Debug\es\Microsoft.SqlServer.Types.resources.dll
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\bin\x64\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\bin\x64\Debug\it\Microsoft.SqlServer.Types.resources.dll
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\bin\x64\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\bin\x64\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\bin\x64\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\bin\x64\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\bin\x64\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\bin\x64\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.csproj.AssemblyReference.cache
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.AddNote.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.AddPackageChild.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.AddTable.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.AdjustmentDeleteLog.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.AdjustmentFrm.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.AdjustmentListFrm.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.AdjustmentRpt.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.AdjustmentTypefrm.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.AssignTicketButton.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.NoveltiesSaleReport.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.frmPaidByCredit.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.GWPTransactionsReport.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.AverageMonthlySaleReport_frm.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.Barcode.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.Brand.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.Centralized.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.chart.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.City.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.Common.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.ConsignmentSettlement.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.ConsignmentProductCounter.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.ConsignmentProductReport.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.ConsignmentSettlementList.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.ConsignmentSettlementReport.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.ConsignmentSettlement_DetailList.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.frmlocalize.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.csvExportImport.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.Customer_Package_detail.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.CustomerDetailInfoExample.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.exampleSale.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.ExchangeRate.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.ExpenseCategory.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.ExpenseDeleteLog.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.ExpenseDetailList.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.ExpenseEntry.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.ExpenseList.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.ExpenseReport.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.GeneralPassword.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.NoveltySystem.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.Novelty_Detail.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.Novelty_List.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.ProductExpireReport.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.Promotion_List.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.PromotionDetail.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.PromotionSystem.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.StockAgingReport.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.VersionInfo.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.frmNetIncomeReport.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.frmSale_FOC.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.GiftCardTransactionHistory.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.MDIParent.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.MemberRule.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.newMemberType.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.mType.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.OutstandingSupplierDetail.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.OutstandingSupplierList.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.Package_Customer_List.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.ProductDetailQty.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.ProfitAndLoss_frm.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.PurchaseDeleteLog_frm.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.Counter.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.CreditTransactionList.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.CustomerDetail.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.CustomerDetailInfo.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.CustomerList.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.DailyTotalReport.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.DeleteLogForm.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.DraftDetail.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.DraftList.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.EndDay.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.FrmCustomerInfomation.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.frmCustomerSaleReport.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.GiftCardControl.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.ItemList.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.ItemSummary.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.DailySummaryReport.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.Login.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.NewCustomer.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.NewProduct.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.NewSupplier.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.NewUser.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.OutstandingCustomerList.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.OutstandingCustomerReport.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.PaidByCash2.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.PaidByCreditWithPrePaidDebt.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.PaidByFOC.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.PaidByGiftCard.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.PaidByMPU.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.PriceChangeHistoryList.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.PrintBarcode.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.ProductCategory.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.ProductDetailPrice.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.ProductReport_frm.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.ProductSubCategory.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.Properties.Resources.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.PurchaseDetailList.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.PurchaseDiscountReport_frm.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.PurchaseInput.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.PurchaseListBySupplier.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.PurchaseOrderItem.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.PurchaseReport.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.RefundDetail.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.RefundDiscount.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.RefundList.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.RefundTransaction.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.Register.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.RoleManagement.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.SaleBreakDown.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.Sales.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.Setting.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.Shop.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.StartDay.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.StockReceiveList.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.StockTransaction.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.StockTransactionReport.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.StockTransReturnForm.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.SupplierInformation.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.SupplierList.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.Taxes.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.TaxesSummary.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.TopSaleReport.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.TopUp.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.Transaction_Reports.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.TransactionDetailByItem.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.TransactionDetailForm.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.TransactionList.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.TransactionReportByCashierOrCounter.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.TransactionReport_FOC_MPU.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.TransactionSummary.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.UnitConversionfrm.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.UnitConversionListfrm.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.UnitForm.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.UserControl.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.ViewTicket.resources
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.csproj.GenerateResource.cache
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.csproj.CoreCompileInputs.cache
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.csproj.CopyComplete
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.exe
+G:\SouceCode\Current Update Project (SC)\mpos version 3\POS\obj\x64\Debug\POS.pdb
+D:\Sourcecode\mpos version 3\POS\bin\x64\Debug\POS.exe.config
+D:\Sourcecode\mpos version 3\POS\bin\x64\Debug\POS.exe
+D:\Sourcecode\mpos version 3\POS\bin\x64\Debug\POS.pdb
+D:\Sourcecode\mpos version 3\POS\bin\x64\Debug\EntityFramework.dll
+D:\Sourcecode\mpos version 3\POS\bin\x64\Debug\Microsoft.ReportViewer.Common.dll
+D:\Sourcecode\mpos version 3\POS\bin\x64\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Sourcecode\mpos version 3\POS\bin\x64\Debug\QRCoder.dll
+D:\Sourcecode\mpos version 3\POS\bin\x64\Debug\Microsoft.SqlServer.Types.dll
+D:\Sourcecode\mpos version 3\POS\bin\x64\Debug\EntityFramework.xml
+D:\Sourcecode\mpos version 3\POS\bin\x64\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\Sourcecode\mpos version 3\POS\bin\x64\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\Sourcecode\mpos version 3\POS\bin\x64\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\Sourcecode\mpos version 3\POS\bin\x64\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\Sourcecode\mpos version 3\POS\bin\x64\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\Sourcecode\mpos version 3\POS\bin\x64\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\Sourcecode\mpos version 3\POS\bin\x64\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\Sourcecode\mpos version 3\POS\bin\x64\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\Sourcecode\mpos version 3\POS\bin\x64\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\Sourcecode\mpos version 3\POS\bin\x64\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.csproj.AssemblyReference.cache
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.AddNote.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.AddPackageChild.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.AddTable.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.AdjustmentDeleteLog.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.AdjustmentFrm.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.AdjustmentListFrm.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.AdjustmentRpt.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.AdjustmentTypefrm.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.AssignTicketButton.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.NoveltiesSaleReport.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.frmPaidByCredit.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.GWPTransactionsReport.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.AverageMonthlySaleReport_frm.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.Barcode.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.Brand.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.Centralized.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.chart.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.City.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.Common.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.ConsignmentSettlement.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.ConsignmentProductCounter.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.ConsignmentProductReport.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.ConsignmentSettlementList.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.ConsignmentSettlementReport.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.ConsignmentSettlement_DetailList.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.frmlocalize.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.csvExportImport.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.Customer_Package_detail.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.CustomerDetailInfoExample.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.exampleSale.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.ExchangeRate.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.ExpenseCategory.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.ExpenseDeleteLog.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.ExpenseDetailList.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.ExpenseEntry.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.ExpenseList.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.ExpenseReport.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.GeneralPassword.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.NoveltySystem.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.Novelty_Detail.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.Novelty_List.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.ProductExpireReport.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.Promotion_List.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.PromotionDetail.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.PromotionSystem.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.StockAgingReport.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.VersionInfo.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.frmNetIncomeReport.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.frmSale_FOC.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.GiftCardTransactionHistory.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.MDIParent.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.MemberRule.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.newMemberType.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.mType.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.OutstandingSupplierDetail.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.OutstandingSupplierList.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.Package_Customer_List.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.ProductDetailQty.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.ProfitAndLoss_frm.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.PurchaseDeleteLog_frm.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.Counter.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.CreditTransactionList.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.CustomerDetail.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.CustomerDetailInfo.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.CustomerList.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.DailyTotalReport.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.DeleteLogForm.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.DraftDetail.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.DraftList.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.EndDay.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.FrmCustomerInfomation.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.frmCustomerSaleReport.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.GiftCardControl.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.ItemList.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.ItemSummary.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.DailySummaryReport.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.Login.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.NewCustomer.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.NewProduct.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.NewSupplier.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.NewUser.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.OutstandingCustomerList.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.OutstandingCustomerReport.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.PaidByCash2.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.PaidByCreditWithPrePaidDebt.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.PaidByFOC.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.PaidByGiftCard.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.PaidByMPU.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.PriceChangeHistoryList.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.PrintBarcode.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.ProductCategory.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.ProductDetailPrice.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.ProductReport_frm.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.ProductSubCategory.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.Properties.Resources.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.PurchaseDetailList.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.PurchaseDiscountReport_frm.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.PurchaseInput.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.PurchaseListBySupplier.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.PurchaseOrderItem.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.PurchaseReport.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.RefundDetail.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.RefundDiscount.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.RefundList.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.RefundTransaction.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.Register.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.RoleManagement.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.SaleBreakDown.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.Sales.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.Setting.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.Shop.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.StartDay.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.StockReceiveList.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.StockTransaction.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.StockTransactionReport.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.StockTransReturnForm.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.SupplierInformation.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.SupplierList.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.Taxes.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.TaxesSummary.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.TopSaleReport.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.TopUp.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.Transaction_Reports.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.TransactionDetailByItem.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.TransactionDetailForm.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.TransactionList.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.TransactionReportByCashierOrCounter.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.TransactionReport_FOC_MPU.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.TransactionSummary.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.UnitConversionfrm.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.UnitConversionListfrm.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.UnitForm.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.UserControl.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.ViewTicket.resources
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.csproj.GenerateResource.cache
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.csproj.CoreCompileInputs.cache
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.csproj.CopyComplete
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.exe
+D:\Sourcecode\mpos version 3\POS\obj\x64\Debug\POS.pdb
